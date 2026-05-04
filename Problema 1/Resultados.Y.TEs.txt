@@ -1,0 +1,7 @@
+Resultado de Prueba 1 en C++:
+Resultado final f(1) = 1.38941e+018
+Tiempo de Ejecución: 49139.4162 ms
+
+Resultado de Prueba 1 en Python:
+Resultado final f(1.0) = 1.2676506002282297e+30
+Tiempo de Ejecución: 13314.7594 ms
