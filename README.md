@@ -36,4 +36,4 @@ El tercer planteamiento de la prueba diagnóstica se enfoca en la manipulación 
 También puedes usar editores como PyCharm o simplemente un bloc de notas y ejecutarlo desde la terminal.
 
 ### Video de la denfensa.
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) **https://youtu.be/IrlSFoDCIfQ**
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) **https://youtu.be/VGyfcgdNQbs**
