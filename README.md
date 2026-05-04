@@ -1,4 +1,4 @@
-# Prueba-Diagnostica-Lenguajes-y-Compiladores
+# Prueba-Diagnostica-Lenguajes-y-Compiladores - Sección 2
 Serie de problemas a modo de primera asignación de la UC Lenguajes y Compiladores en la UNEG
 
 **Alumno:** Luis Millan
